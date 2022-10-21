@@ -1,0 +1,1 @@
+# slickCarousel_angular
